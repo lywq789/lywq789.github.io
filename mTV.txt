@@ -1,4 +1,4 @@
-﻿{//说明"type":0=xml.1=json.2=爬虫源.3=自定义爬虫
+{//说明"type":0=xml.1=json.2=爬虫源.3=自定义爬虫
 //"spider":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/jar/6custom_spider.jar",
 //"spider":"img+https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/jar/0.bmp",
 //"spider":"http://lywq67890.youhui112.com/jar/custom_spider9.jar",
