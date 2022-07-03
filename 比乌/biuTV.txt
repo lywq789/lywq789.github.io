@@ -1,4 +1,4 @@
-﻿//首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
+//首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
 {"key":"历史","title":"历史","pic":"http://lywq67890.youhui112.com/biu/ios/ls.jpg"},
 {"key":"APP","title":"主页","pic":"http://lywq67890.youhui112.com/biu/ios/zy.jpg"},
