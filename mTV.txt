@@ -3,7 +3,7 @@
 //"spider":"img+https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/jar/0.bmp",
 //"spider":"http://lywq67890.youhui112.com/jar/custom_spider9.jar",
 "wallpaper": "http://css.lc/api.php",//壁纸
-"spider":"https://gitee.com/lywq789/wj/raw/master/jar/custom_spider9.jar",
+"spider":"https://lywq789.github.io/jar/custom_spider9.jar",
 "sites":[
 {"key":"csp_77","name":"77(P)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"小苹果(P)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
