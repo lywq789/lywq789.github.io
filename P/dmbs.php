@@ -1,1 +1,0 @@
-{"class":[{"type_id":1,"type_name":"国产动漫"},{"type_id":2,"type_name":"日本动漫"},{"type_id":4,"type_name":"动漫电影"},{"type_id":3,"type_name":"欧美动漫"}]}

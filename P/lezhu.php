@@ -1,1 +1,0 @@
-{"class":[{"type_id":1,"type_name":"电 影"},{"type_id":2,"type_name":"电视 剧"},{"type_id":4,"type_name":"动漫"},{"type_id":3,"type_name":"综艺"}]}
