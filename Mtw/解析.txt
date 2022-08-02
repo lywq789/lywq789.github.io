@@ -1,0 +1,103 @@
+{"name":"M19","type": 1,"url":"https://z1.m1907.cn/?eps=0&jx="},
+{"name":"可乐","type": 1,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"思念","type": 1,"url":"https://jsap.attakids.com/?url="},
+{"name":"求生","type": 1,"api":"https://api.yananweidao.com/?url="},
+{"name":"捂捂","type": 1,"url":"https://titan.mgtv.com.o8tv.com/jiexi/?url="},
+{"name":"纯白","type": 1,"url":"https://chkkk.top/jiexi/ys?url="},
+{"name":"饭团","type": 1,"url":"https://qian.wkfile.com/m3u8.php?url="},
+{"name":"乐看","type": 1,"url":"https://lekan.4v0r.cn/m3u8.php?url="},
+{"name":"和巴","type": 1,"url":"https://www.h8jx.com/jiexi.php?url="},
+{"name":"枫林","type": 1,"url":"https://api.fenglinys.net/?url="},
+{"name":"星驰","type": 1,"url":"https://vip.cjys.top/?url="},
+{"name":"PAR","type": 1,"url":"https://vip.parwix.com:4433/player/?url="},
+{"name":"CKP","type": 1,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"OK","type": 1,"url":"https://okjx.cc/?url="},
+{"name":"618","type": 1,"url":"https://jx.618g.com/?url="},
+{"name":"1717","type": 1,"url":"https://www.1717yun.com/jx/ty.php?url="},
+{"name":"4080","type": 1,"url":"https://jx.urlkj.com/4080/?url="},
+{"name":"8090","type": 1,"url":"https://www.8090.la/api/?url="},
+{"name":"一零","type": 1,"url":"https://j.languang.wfss100.com/?url="},
+{"name":"六六","type": 1,"url":"https://api.3jx.top/vip/?url="},
+{"name":"九八","type": 1,"url":"https://jx.youyitv.com/?url="},
+{"name":"乐喵","type": 1,"url":"https://vip.hao-zsj.cn/jx/?url"},
+{"name":"说说","type": 1,"url":"https://www.ssamao.com/jx/?url="},
+{"name":"哔哩","type": 1,"url":"https://www.cuan.la/m3u8.php?url="},
+{"name":"久播","type": 1,"url":"https://vip.jiubojx.com/vip/?url="},
+{"name":"极速","type": 1,"url":"https://url.js.cn/?url="},
+{"name":"神马","type": 1,"url":"https://jxx.smys8.cn/index.php?url="},
+{"name":"刺客","type": 1,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
+{"name":"大师","type": 1,"url":"https://www.ifreefans.com/player/?url="},
+{"name":"盘古","type": 1,"url":"https://www.pangujiexi.cc/jiexi.php?url="},
+{"name":"恶灵","type": 1,"url":"https://jx.elwtc.com/vip/?url="},
+{"name":"狼牙","type": 1,"url":"https://jx.yaohuaxuan.com/?url="},
+{"name":"乐多","type": 1,"url":"https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="},
+{"name":"云端","type": 1,"url":"https://jx.ergan.top/?url="},
+{"name":"锦云","type": 1,"url":"https://go.yh0523.cn/y.cy?url="},
+{"name":"桔子","type": 1,"url":"https://jiexi.jiexizhuanyong.com/wapjx/?url="},
+{"name":"诺讯","type": 1,"url":"https://www.ckmov.com/?url="},
+{"name":"淘影","type": 1,"url":"https://jx.vodjx.top/vip/?url="},
+{"name":"迪耿","type": 1,"url":"https://api.1dior.cn/analysis/123/index.php?uid=1428&my=afkruDFIYZ&url="},
+{"name":"无名","type": 1,"url":"https://www.administratorw.com/index.php?url="},
+{"name":"17云","type": 1,"url":"http://17kyun.com/api.php?url="},
+{"name":"麻瓜","type": 1,"url":"http://jx.maguays.cc/?url="},
+{"name":"酷博","type": 1,"url":"http://jx.x-99.cn/api.php?id="},
+{"name":"七年","type": 1,"url":"http://42.192.47.132/jx/mao/index.php?url="},
+{"name":"酷点","type": 1,"url":"http://bf.kudian6.com/jiexi.php?url="},
+{"name":"大亨","type": 1,"url":"http://api.13tv.top/jiexi/?url="},
+{"name":"狂奔","type": 1,"url":"http://k8aa.com/jx/index.php?url="},
+{"name":"大侠","type": 1,"url":"https://api.10dy.net/?url="},
+{"name":"放开","type": 1,"url":"http://api.iopenyun.com:88/vip/?url="},
+{"name":"九一","type": 1,"url":"https://www.91jxs.com/jiexi/?url="},
+{"name":"音萌","type": 1,"url":"https://api.v6.chat/?url="},
+{"name":"小蒋","type": 1,"url":"https://www.kpezp.cn/jlexi.php?url="},
+{"name":"蘑菇","type": 1,"url":"https://jx.wzslw.cn/?url="},
+{"name":"大白","type": 1,"url":"http://api.myzch.cn/?url="},
+{"name":"七彩","type": 1,"url":"https://www.xymav.com/?url="},
+{"name":"盒子","type": 1,"url":"http://jx5.178du.com/p1/?url="},
+{"name":"时光","type": 1,"url":"https://jiexi.janan.net/jiexi/?url="},
+{"name":"看剧","type": 1,"url":"http://jx.kanjumao.cn/?url="},
+{"name":"云栖","type": 1,"url":"https://api.jx.yh0523.cn/test/?url="},
+{"name":"爱酷","type": 1,"url":"http://www.ikukk.com/?url="},
+{"name":"冰豆","type": 1,"url":"https://api.qianqi.net/vip/?url="},
+{"name":"云网","type": 1,"url":"https://www.41478.net/?url="},
+{"name":"玩嗨","type": 1,"url":"https://www.yaosou.cc/jiexi/?v="},
+       
+                    <li class="videoapi-item" data-url="//www.mgtv.com.favnow.com/?uid=86&token=sharktv&v=" 
+                      data-name="默认接口">
+                        <a href="javascript:;">默认接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://okjx.cc/?url=" 
+                      data-name="Ok解析接口">
+                        <a href="javascript:;">Ok解析接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://api.jiexi.la/?url=" 
+                      data-name="jiexiLa接口">
+                        <a href="javascript:;">jiexiLa接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://www.playm3u8.cn/jiexi.php?url=" 
+                      data-name="playm3u8接口">
+                        <a href="javascript:;">playm3u8接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://www.8090.la/api/?url=" 
+                      data-name="8090接口">
+                        <a href="javascript:;">8090接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://jx.m3u8.tv/jiexi/?url=" 
+                      data-name="盘古接口">
+                        <a href="javascript:;">盘古接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://jx.7kjx.com/?url=" 
+                      data-name="7k接口">
+                        <a href="javascript:;">7k接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://www.h8jx.com/jiexi.php?url=" 
+                      data-name="H8接口">
+                        <a href="javascript:;">H8接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://jx.m3u8.tv/jiexi/?url=" 
+                      data-name="解析大师接口">
+                        <a href="javascript:;">解析大师接口</a>
+                    </li>
+                    <li class="videoapi-item" data-url="https://lecurl.cn/?url=" 
+                      data-name="MAO接口">
+                        <a href="javascript:;">MAO接口</a>
