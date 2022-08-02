@@ -1,0 +1,1 @@
+{"class":[{"type_id":"zuijinrebodianying","type_name":"电影"},{"type_id":"zuijinrebodianshiju","type_name":"电视剧"},{"type_id":"gypy","type_name":"国配电影"},{"type_id":"guoyupeiyinhanju","type_name":"国配剧集"},{"type_id":"zongyi","type_name":"综艺"},{"type_id":"dongman","type_name":"动漫"}]}
