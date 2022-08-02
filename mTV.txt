@@ -2,6 +2,7 @@
 //"spider":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/jar/6custom_spider.jar",
 //"spider":"img+https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/jar/0.bmp",
 //"spider":"http://lywq67890.youhui112.com/jar/custom_spider9.jar",
+"wallpaper": "http://css.lc/api.php",//壁纸
 "spider":"https://gitee.com/lywq789/wj/raw/master/jar/custom_spider9.jar",
 "sites":[
 {"key":"csp_77","name":"77(P)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -73,16 +74,20 @@
 {"name":"爱奇艺","url":"https://m.iqiyi.com/"},{"name":"腾讯视频","url":"https://m.v.qq.com/"},{"name":"芒果TV","url":"https://m.mgtv.com/"},{"name":"优酷视频","url":"https://www.youku.com/"},{"name":"搜狐视频","url":"https://m.tv.sohu.com/"},{"name":"B站视频","url":"https://m.bilibili.com/"},{"name":"乐视视频","url":"https://m.le.com/"},{"name":"1905视频","url":"https://m.1905.com/"},{"name":"PPTV视频","url":"https://m.pptv.com/"}
 ],
 //直播地址用(BASE64加密器)解密
-"lives":[{"group":"redirect","channels":[{"name":"clx","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seXdxNzg5LmNvZGluZy5uZXQvcC9tVHYvZC9NdHcvZ2l0L3Jhdy9tYXN0ZXIvVFYudHh0"]}]}],
-
+"lives":[{"group":"redirect","channels":[{"name":"clx","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vbHl3cTc4OS93ai9yYXcvbWFzdGVyL1RWLmpwZw=="]}]}],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name": "GGTV快速","type": 1,"url": "https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="},
+{"name": "m3u8tv高清","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
+{"name": "parwix稳定","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
+{"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="},
+
 {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
-{"name":"293","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+//{"name":"293","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
 {"name":"renrenmi2","type":1,"url":"https://a.dxzj88.com/jxrrm/jiami.php?url=","ext":{"flag":["renrenmi"]}},
