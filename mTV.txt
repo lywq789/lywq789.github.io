@@ -1,7 +1,4 @@
 {//说明"type":0=xml.1=json.2=爬虫源.3=自定义爬虫
-//"spider":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/jar/6custom_spider.jar",
-//"spider":"img+https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/jar/0.bmp",
-//"spider":"http://lywq67890.youhui112.com/jar/custom_spider9.jar",
 "wallpaper": "http://css.lc/api.php",//壁纸
 "spider":"https://lywq789.github.io/jar/custom_spider9.jar",
 "sites":[
@@ -11,12 +8,12 @@
 {"key":"csp_Kuaikan","name":"快看(P)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"低端影视(P)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_厂长资源","name":"厂长资源(P)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"360","name":"360(T)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/360.php"},
-{"key":"csp_xpath_lezhutv","name":"乐猪TV(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/lezhutv.json"},
+{"key":"360","name":"360(T)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/360.php"},
+{"key":"csp_xpath_lezhutv","name":"乐猪TV(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/lezhutv.json"},
 
 //biubiu自定义
-{"key":"csp_大米星球","name":"大米(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/dmxq.json"},
-{"key":"csp_黑狐影视","name":"黑狐影视(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/biu/zdy/hhys.json"},
+{"key":"csp_大米星球","name":"大米(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.github.io/Mtw/TW/dmxq.json"},
+{"key":"csp_黑狐影视","name":"黑狐影视(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.github.io/biu/zdy/hhys.json"},
 
 //XML
 
@@ -38,18 +35,18 @@
 //上面几个源需用 7custom_spider.jar包
 
 //套娃源(T)
-{"key":"csp_xpath_骚火","name":"骚火(T)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/sh.js"},
-{"key":"csp_xpath_hmtv","name":"花猫TV(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/hmtv.json"},
-{"key":"csp_xpath_jbb","name":"剧白白(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/jbb.json"},
-{"key":"csp_xpath_libvio","name":"LIBvio(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/libvio.json"},
-{"key":"csp_xpath_在线之家","name":"在线之家(T)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/zxzj.json"},
-{"key":"csp_xpath_ddg","name":"达达龟(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/ddg.json"},
-{"key":"csp_xpath_tkyszl","name":"天空直链(T)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/tkys.json"},
-{"key":"csp_xpath_jpyszl","name":"极品直链(T)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/jpys.json"},
-{"key":"csp_xpath_wnvod","name":"万能影视(T)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/wndy.json"},
-{"key":"csp_xpath_6d","name":"六度(T)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/liudu.json"},
-{"key":"csp_xpath_9e","name":"九亿(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/9e.json"},
-{"key":"csp_xpath_348z","name":"348电影网(T)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.coding.net/p/mTv/d/Mtw/git/raw/master/TW/348z.json"},
+{"key":"csp_xpath_骚火","name":"骚火(T)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/sh.js"},
+{"key":"csp_xpath_hmtv","name":"花猫TV(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/hmtv.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/jbb.json"},
+{"key":"csp_xpath_libvio","name":"LIBvio(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.github.io/Mtw/TW/libvio.json"},
+{"key":"csp_xpath_在线之家","name":"在线之家(T)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/zxzj.json"},
+{"key":"csp_xpath_ddg","name":"达达龟(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.github.io/Mtw/TW/ddg.json"},
+{"key":"csp_xpath_tkyszl","name":"天空直链(T)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/tkys.json"},
+{"key":"csp_xpath_jpyszl","name":"极品直链(T)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/jpys.json"},
+{"key":"csp_xpath_wnvod","name":"万能影视(T)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/wndy.json"},
+{"key":"csp_xpath_6d","name":"六度(T)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/liudu.json"},
+{"key":"csp_xpath_9e","name":"九亿(T)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lywq789.github.io/Mtw/TW/9e.json"},
+{"key":"csp_xpath_348z","name":"348电影网(T)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lywq789.github.io/Mtw/TW/348z.json"},
 
 //M浏览器源(M)
 {"key":"csp_appysv2_影视猫","name":"影视猫(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.wscyun.com/api.php/v1.vod"},
